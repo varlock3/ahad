@@ -7,7 +7,7 @@ client.on('ready', function(){
  game: { 
     type: 1,
      url: 'https://www.twitch.tv/skwadraa',
-    name: ':paperclips::black_heart:كن لي أغُنية وأجعل حديثنا عناق.',
+    name: 'كن لي أغُنية وأجعل حديثنا عناق.',
     application_id: '505882662666240000',
      assets: {
          large_image:   `508868583653244958`,
