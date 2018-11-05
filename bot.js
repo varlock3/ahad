@@ -7,10 +7,10 @@ client.on('ready', function(){
  game: { 
     type: 1,
      url: 'https://www.twitch.tv/skwadraa',
-    name: 'كثرة الحاقدين تثير اعجابي .',
-    application_id: '508057078401728522',
+    name: ':paperclips::black_heart:كن لي أغُنية وأجعل حديثنا عناق.',
+    application_id: '505882662666240000',
      assets: {
-         large_image:   `508057243124760586`,
+         large_image:   `508868583653244958`,
   
     }
   }
